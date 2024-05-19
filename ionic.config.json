@@ -1,0 +1,7 @@
+{
+  "name": "graficosjs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
